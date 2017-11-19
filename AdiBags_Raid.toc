@@ -1,0 +1,11 @@
+## Interface: 70300
+## Title: AdiBags - Raid Items
+## Notes: Adds raid items to AdiBags virtual groups
+
+## Version: 7.3-release1
+## Author: Butchmonkey of Sylvanas-EU
+## X-Category: Bags & Inventory
+## Dependencies: AdiBags
+
+Localization.lua
+AdiBags_Raid.lua
